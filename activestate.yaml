@@ -1,4 +1,4 @@
-project: https://platform.activestate.com/mitchell-as/test3?branch=branch&commitID=7af82a8d-a9c5-44bd-9c89-50af784435e1
+project: https://platform.activestate.com/mitchell-as/test3?branch=branch&commitID=d55f515a-011f-46f1-ae21-85df69a6386a
 
 scripts:
   - name: activationMessage
